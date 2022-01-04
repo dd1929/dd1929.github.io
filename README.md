@@ -6,6 +6,4 @@ I develop apps for fun, yet apps that should be a joy to use. I am just getting 
 
 ## My projects
 * [APOD Viewer](https://dd1929.github.io/apod-viewer)
-* [This website](https://dd1929.github.io)
-
-© Copyright 2021 dd1929. All lefts reserved.
+* [My website](https://dd1929.github.io)
